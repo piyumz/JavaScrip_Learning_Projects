@@ -1,0 +1,53 @@
+body{
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+  max-width: 600px; /* Maximum width */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+   
+}
+div{
+    text-align: center;
+}
+h1{
+ color:#ffffff;
+  font-size:2em;
+  font-family:helvetica;
+  display:block;
+  padding: 12px 24px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  background-color: #0A3981;
+  transition: all 0.3s ease;
+}
+
+
+
+#myinput{
+    width:1.25em;
+    font-size: 5em;
+    
+    color:#065084;
+
+}
+#mybtn{
+    font-size: 3em;
+    color:#fefefe;
+    background-color:#2047b4;
+    border: 2px;
+    border-radius: 5px;
+    transform: background-color 2.5ms;
+    cursor: pointer;
+}
+#mybtn:hover{
+    background-color:#1a30f6;
+}
+p{
+    color:#065084;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace
+}
+
