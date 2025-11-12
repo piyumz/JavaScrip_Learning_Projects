@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Helvetica;
+}
+#mybtn{
+    padding:10px 20px;
+    font-size:1.5em;
+   background-color:rgb(122, 122, 224);
+   color:white;
+   border: 5px;
+   border-radius: 5px;
+   cursor: pointer;
+   transition:backgroud-color 2.ms;
+
+   
+    
+}
+#mybtn:hover{
+    background-color:blue;
+}
+
+#mylable1{
+    display: block;
+   
+    font-size: 10em;
+   
+    
+}
