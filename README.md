@@ -27,4 +27,4 @@ I created these while learning core JavaScript concepts such as variables, funct
 ## 💻 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/piyumz/JavaScrip_Learning_Projects.git
